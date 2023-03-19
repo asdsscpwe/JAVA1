@@ -18,6 +18,6 @@ public class lecture01 {
         boolean flag = true;
 
         // 창조형
-        String str = "Hello World"
+        String str = "Hello World";
     }
 }
