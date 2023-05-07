@@ -6,7 +6,7 @@ public class lecture06 {
         // 클래스 변수명 = new 클래스();
         // 입력
         Scanner scanner = new scanner(System.in);
-```
+
         System.out.println("나이를 입력하세요");
         // 정수입력
         int inputAge = scanner.next.int();
